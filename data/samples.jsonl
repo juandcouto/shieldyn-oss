@@ -1,0 +1,10 @@
+{"subject": "Action required: verify account", "content": "Dear customer, please verify your password at https://secure-login.example.", "label": "phishing"}
+{"subject": "Your invoice is attached", "content": "Hello Alex, the invoice for April is attached. Please review.", "label": "safe"}
+{"subject": "Security alert", "content": "Unusual activity detected. Confirm your account details immediately.", "label": "phishing"}
+{"subject": "Weekly report", "content": "Here is your weekly report. Visit https://company.example/reports for details.", "label": "safe"}
+{"subject": "Delivery failed", "content": "We could not deliver your package. Track at http://track.example.", "label": "safe"}
+{"subject": "Account locked", "content": "Your account has been locked. Click https://login.example to unlock now.", "label": "phishing"}
+{"subject": "Payment issue", "content": "Your card was declined. Update your billing info.", "label": "phishing"}
+{"subject": "Team meeting", "content": "Reminder: team meeting at 3 PM in conference room B.", "label": "safe"}
+{"subject": "Verify identity", "content": "Dear user, verify your identity at https://id.example to avoid suspension.", "label": "phishing"}
+{"subject": "Account update", "content": "Review your account settings at https://portal.example/settings.", "label": "safe"}
